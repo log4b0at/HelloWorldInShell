@@ -1,0 +1,16 @@
+{
+  "name": "HelloWorldInShell",
+  "category": "utilities",
+  "icon": "icon.svg",
+  "server": "server.js",
+  "title": {
+    "en_EN": "Hello World in Shell"
+  },
+  "description": {
+    "en_EN": "Hello World in Shell"
+  },
+  "files": [
+    "index.js",
+    "index.css"
+  ]
+}
